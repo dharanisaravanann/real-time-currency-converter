@@ -59,3 +59,9 @@ pip install streamlit==1.38.0 requests==2.32.3 pandas matplotlib
 streamlit run app.py
 ```
  - The application will open automatically in your default web browser.
+
+## Screenshots
+![FX Converter UI](screenshots/ui.png)
+![Live FX Conversion](screenshots/live_conversion.png)
+![Historical FX Trend](screenshots/trend.png)
+
